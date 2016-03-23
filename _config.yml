@@ -9,9 +9,9 @@
 title: Tim's Blog 2.0
 email: tim.jim.hank@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+	You've found my Github Page!
+	I hope to flesh this out very soon with personal projects and technology topics!
+	This page is very much under construction, so please pardon my dust!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://timjhenry.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
