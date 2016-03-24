@@ -11,9 +11,9 @@ email: tim.jim.hank@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
  You've found my Github Page!
  I hope to flesh this out very soon with personal projects and technology topics!
- This page is very much under construction, so please pardon my dust!
+ This site is very much under construction, so please pardon my dust!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://timjhenry.com" # the base hostname & protocol for your site
+url: "http://timjimhank.github.io/" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
