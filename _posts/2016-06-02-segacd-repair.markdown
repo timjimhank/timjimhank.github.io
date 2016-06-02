@@ -29,4 +29,4 @@ Lessons learned, many from a repair attempted by someone else:
 - NEVER TRY TO PULL A TRAY-LOADER'S TRAY OUT! That's incredibly unsafe.
 - Don't push the tray in. The Sega CD doesn't look like it has a way to deal with this.
 
-I think that's it! In the past, I repaired a Sega Game Gear with leaky caps, and a PC Engine briefcase unit with a broken CD drive.
+I think that's it! In the past, I repaired a Sega Game Gear with leaky caps, and a PC Engine briefcase unit with a broken CD drive. If you'd like more details or advice, feel free to contact me!
