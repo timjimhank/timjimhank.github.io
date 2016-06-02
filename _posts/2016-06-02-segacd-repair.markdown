@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Repaired a Model 1 Sega CD"
-date:   2016-06-02 15:45:10 -0700
 categories: sega repair
 ---
+
 For the past couple of weeks, I have been working on repairing an old favorite console of mine, the Sega CD. What makes this job special is the fact that it's the first model. This model has a tray-loading mechanism with tons of moving, plastic parts which are notorious for breaking. There are tons of guides on the internet for repairing the console, so I won't bore you with a guide.
 
 I already had a working 'model 1' without a transport (tray) mechanism, so I ordered a complete, albeit broken, console from someone. I took that console and:
